@@ -1,4 +1,6 @@
-# Useful Go HTTP middlewares [![Documentation](https://godoc.org/github.com/induzo/gohttpmw?status.svg)](http://godoc.org/github.com/induzo/gohttpmw) [![Go Report Card](https://goreportcard.com/badge/github.com/induzo/gohttpmw)](https://goreportcard.com/report/github.com/induzo/gohttpmw) [![Coverage Status](https://coveralls.io/repos/github/induzo/gohttpmw/badge.svg?branch=master)](https://coveralls.io/github/induzo/gohttpmw?branch=master) [![CircleCI](https://circleci.com/gh/induzo/gohttpmw.svg?style=svg)](https://circleci.com/gh/induzo/gohttpmw) [![Maintainability](https://api.codeclimate.com/v1/badges/9f9a4038e01e79fbd5be/maintainability)](https://codeclimate.com/github/induzo/gohttpmw/maintainability)
+# Useful Go HTTP middlewares
+
+[![Documentation](https://godoc.org/github.com/induzo/gohttpmw?status.svg)](http://godoc.org/github.com/induzo/gohttpmw) [![Go Report Card](https://goreportcard.com/badge/github.com/induzo/gohttpmw)](https://goreportcard.com/report/github.com/induzo/gohttpmw) [![Coverage Status](https://coveralls.io/repos/github/induzo/gohttpmw/badge.svg?branch=master)](https://coveralls.io/github/induzo/gohttpmw?branch=master) [![CircleCI](https://circleci.com/gh/induzo/gohttpmw.svg?style=svg)](https://circleci.com/gh/induzo/gohttpmw) [![Maintainability](https://api.codeclimate.com/v1/badges/9f9a4038e01e79fbd5be/maintainability)](https://codeclimate.com/github/induzo/gohttpmw/maintainability)
 
 ## Content type
 
