@@ -8,6 +8,8 @@ github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/ory/ladon v1.0.0 h1:gIxadSxUefpAzEc0lSksKdyjKBhx+hV0Waa5z/IB9Xc=
 github.com/ory/ladon v1.0.0/go.mod h1:1VhCA2mBtaMhRUS6VS0d9qrNVDQnFXqSRb5D0NvQUPY=
+github.com/ory/ladon v1.0.1 h1:zCEfqnv8Ro62id0Z9cVPRPv4ejTu6HHtuPbXmTWBxks=
+github.com/ory/ladon v1.0.1/go.mod h1:1VhCA2mBtaMhRUS6VS0d9qrNVDQnFXqSRb5D0NvQUPY=
 github.com/ory/pagination v0.0.1/go.mod h1:d1ToRROAUleriPhmb2dYbhANhhLwZ8s395m2yJCDFh8=
 github.com/pborman/uuid v1.2.0 h1:J7Q5mO4ysT1dv8hyrUGHb9+ooztCXu1D8MY8DZYsu3g=
 github.com/pborman/uuid v1.2.0/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
